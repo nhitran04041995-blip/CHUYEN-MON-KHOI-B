@@ -1,0 +1,8 @@
+{
+  "name": "Remix Khối B - Trường Mầm Non Vỹ Dạ",
+  "description": "Ứng dụng web quản lý chuyên môn toàn diện cho tổ trưởng và giáo viên Khối B - Trường Mầm Non Vỹ Dạ",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
